@@ -1,6 +1,7 @@
 package example;
 
 public class Calculator {
+    // commented by janice, new branch
     public int add(int a, int b) {
         // TODO: Implement this method
         return a+b;
